@@ -16,4 +16,6 @@ like cute girls,so cosplay is just make it true.
 ## 女装连体fake boob的制作方法（廉价）
 <img src="fake boob.png">
 
-<iframe height=498 width=510 src="自制原理.mp4">
+<video id="video" controls="true" preload="none" poster="封面">
+      <source id="mp4" src="mp4格式视频" type="video/mp4">
+</videos>
