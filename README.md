@@ -17,5 +17,5 @@ like cute girls,so cosplay is just make it true.
 <img src="fake boob.png">
 
 <video id="video" controls="true" preload="none" poster="封面">
-      <source id="mp4" src="mp4格式视频" type="video/mp4">
+      <source id="mp4" src="demo.mp4" type="video/mp4">
 </videos>
