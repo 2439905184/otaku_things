@@ -6,7 +6,7 @@
 just for beautiful thins.
 like cute girls,so cosplay is just make it true.
 管他那么多，我也是想了好久想出来的廉价办法，就上传上来了。
-## 低成本实现等身人偶手办的版本
+## 低成本实现等身人偶手办的办法
 方法一：先买一个等身二次元抱枕的枕套，再买很多棉花，把人物剪下来，
 <img src="IMG_20220130_093107.jpg">
 然后缝合，并用棉花填充
