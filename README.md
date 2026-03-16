@@ -1,6 +1,6 @@
 # otaku_things
 ## 御宅 伪娘 文化 acgn
-## 目录
+## 女装 伪娘
 1. [低成本实现等身人偶手办的办法](低成本实现等身人偶手办的办法.md)
 2. [关于女装.md](关于女装.md)
 3. [低成本女装假胸道具](廉价女装假胸道具.md)
@@ -11,6 +11,9 @@
 8. [廉价模拟女生胸部重量](廉价模拟女生胸部重量.md)
 9. [自制女友等身模型全过程](https://ent.cctv.com/20070531/102221_1.shtml) 工艺：水管（骨架），泡沫塑料（身体），雕刻（塑形）
 10. [伪娘面部廉价方案](伪娘面部廉价方案.md)
+
+## 伪娘软件
+1. [关于snapchat的性别滤镜名称](https://lens.snapchat.com/20e98eba60bd4718924a1823c29ced90?share_id=koRhWgGiXdM&locale=zh-CN) 搜索gender swap，https://lens.snapchat.com/20e98eba60bd4718924a1823c29ced90?share_id=koRhWgGiXdM&locale=zh-CN
 
 ## 其他参考
 1. [伪娘养成手册·好想做个女孩子【目标：全员14亿人伪娘化】新年贺礼 前方高能反应 围观请慎重](https://wwbme.lanzouu.com/irGx63k3deih)
