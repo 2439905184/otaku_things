@@ -26,3 +26,4 @@
 1. [研究怎么做乳摇动画（物理仿真）](研究怎么做乳摇动画（物理仿真）.md)
 ## 其他参考
 1. [伪娘养成手册·好想做个女孩子【目标：全员14亿人伪娘化】新年贺礼 前方高能反应 围观请慎重](https://wwbme.lanzouu.com/irGx63k3deih)
+2. [伪娘选修课](https://github.com/OtokonokoUniversity/course)
