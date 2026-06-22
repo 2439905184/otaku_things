@@ -35,6 +35,12 @@
 6. [肩带义乳-不带文胸](https://mobile.yangkeduo.com/goods.html?ps=ho4dSaUcxf) cross dresser推荐买拼多多指定店铺商品带肩带的义乳，并说明推荐试穿之前根据自己的胸围进行胸围松紧调整(驼背需要预留长度)，肩带纵向长度松紧调整，主要是简单纵向长度
 7. [文胸款义乳](https://mobile.yangkeduo.com/goods2.html?ps=B1uMHYUt1g)
 
+## diy
+1. [记忆棉义乳隐私可隐藏方案](diy/记忆棉义乳隐私可隐藏方案.txt)
+2. [diy义乳配重方案](diy/diy义乳配重方案.md)
+3. [diy义乳配重方案2-密封水袋](diy/diy义乳配重方案2-密封水袋.md)
+4. [调出硅胶肉感](diy/调出硅胶肉感.md)
+
 ## 动画技术
 1. [研究怎么做乳摇动画（物理仿真）](研究怎么做乳摇动画（物理仿真）.md)
 
